@@ -34,13 +34,14 @@ ____
 If user was in current chatroom and chatted with friends already, after sign in he get *the latest 30 messages* from this chat <br>
 ________
 
-### Run programm
+### Run program
 To run the server you need to specify a specific port and run the server program with arguments like this:
 ```
---port=8000
+--server-port=8000
 ```
 To run each client you need specify arguments like this:
 ```
---server-port=8000
+--port=8000
+
 ```
 
