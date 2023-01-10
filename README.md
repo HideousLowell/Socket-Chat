@@ -16,7 +16,7 @@ ____
 ### Registration
 
 The app allows you to create new account or enter in existing account.<br>
-Every password is encoded with ``PasswordEncoder from Spring Security``.<br>
+Every password is encoded with ``PasswordEncoder``.<br>
 ____
 
 ### Chatrooms
